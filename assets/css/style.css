@@ -1,0 +1,41 @@
+html,body{
+    height: 100%;
+}
+
+.col{
+    margin: 1rem;
+ justify-content: center;
+}
+
+.pagina-2{
+ background-color: #eae7e7;
+}
+.titulo{
+    color: rgb(7, 6, 6);
+    text-shadow: 2px 2px 2px #939393;
+}
+.imagem{
+    margin: 2rem;
+    width: 40%;
+}
+.nav-item:hover{
+ background-color: rgb(245, 245, 245);
+ font-family: cursive;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 2px ;
+}
+p{
+    margin: 1rem;
+}
+.card{
+padding: 3rem;
+border-radius: 15px;
+box-shadow: 3px 5px 8px rgba(0,0,0,0.5);
+}
+.btn-close{
+    padding: 2px ;
+}
